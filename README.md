@@ -56,7 +56,7 @@ THEN I find a concise, descriptive title
 
 ## Screenshot of Horsiseon Homepage
 
-https://github.com/BraveUnferth/Horiseon2.0/blob/main/assets/images/HoriseonHomepage.png
+![image]https://github.com/BraveUnferth/Horiseon2.0/blob/main/assets/images/HoriseonHomepage.png
 
 ## Horiseon Hompage Web Address
 
