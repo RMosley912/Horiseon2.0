@@ -1,6 +1,9 @@
 # Horiseon2.0
 
-##Rework Of Horiseon Social Solutions Services Homepage
+
+
+
+##Refactor Of Horiseon Social Solutions Services Homepage
 
 -I completed this project to add some much needed accessibility elements to Horiseon's homepage, allowing search engines and screen readers
 to better describe the content of the webpage.
@@ -9,7 +12,6 @@ to better describe the content of the webpage.
 
 ## User Story
 
-```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
@@ -20,7 +22,6 @@ SO THAT our own site is optimized for search engines
 
  ## Acceptance Criteria
 
-```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -48,7 +49,7 @@ THEN I find a concise, descriptive title
 
 3. I ensured that images were described with alt-text for screen readers
 
-4.  I ensured that the HMTL and CSS had a logical, sequential order of elements and classes
+4. I ensured that the HMTL and CSS had a logical, sequential order of elements and classes
 
 5. I included a more descriptive name for the website
 
@@ -56,11 +57,20 @@ THEN I find a concise, descriptive title
 
 ## Screenshot of Horsiseon Homepage
 
-![image]https://github.com/BraveUnferth/Horiseon2.0/blob/main/assets/images/HoriseonHomepage.png
+![screencapture-braveunferth-github-io-Horiseon2-0-2023-01-29-13_07_38](https://user-images.githubusercontent.com/122495055/215348918-5ddd7dda-5b7f-41d5-b48c-24a84bc6968a.png)
+
 
 ## Horiseon Hompage Web Address
 
 The homepage for Horiseon Social Solutions Services can be accessed at https://braveunferth.github.io/Horiseon2.0/
+
+
+## Technologies Used
+
+HTML5
+CSS3
+VScode
+Google Chrome
 
 
 
